@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there- Welcome to my CS1200 readme file!👋
 
 <!--
 **ASzeto99910/ASzeto99910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
